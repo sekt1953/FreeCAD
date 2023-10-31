@@ -20,4 +20,4 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 * FreeCAD files here:
   * [pwm_002.FCStd](./PWM_Light_Controller/pwm_002.FCStd)
 * Fritzing files for PCB here:
-  * [PCB PWM_Light_Controller](../Fritzing/My_PCB/PWM_Light_Controller/)
+  * [PCB PWM_Light_Controller](https://github.com/sekt1953/Fritzing/tree/main/My_PCB/PWM_Light_Controller/)
