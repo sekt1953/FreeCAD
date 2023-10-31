@@ -4,7 +4,7 @@
 
 |SNZB-01|SNZB-03|
 |:---:|:---:|
-|![](./Images/Skærmbillede%20fra%202023-10-31%2019-50-20.png)|![](./Images/Skærmbillede%20fra%202023-10-31%2019-51-42.png)|
+|![](./SNZB-01/Images/Skærmbillede%20fra%202023-10-31%2019-50-20.png)|![](./SNZB-03/Images/Skærmbillede%20fra%202023-10-31%2019-51-42.png)|
 
 I have designed some hangers for SONOFF, SNZB-01 & SNZB-03, so it is easier to change the battery when the time comes.  
 I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from SAM PARTNER A/S, DK-600 Kolding, Denmark, Item no. 13262.
@@ -13,7 +13,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * [SONOFF SNZB-01 ZigBee Wireless Switch](./SNZB-01/)
   * [SONOFF SNZB-03 ZigBee Motion Sensor](./SNZB-03/)
 
-## Housing for home-built PWM controller
+## Housing for home-built, 6 channel PWM Light Controller
 
 ![](./PWM_Light_Controller/Images/Skærmbillede%20fra%202022-10-19%2022-08-58.png)
 
