@@ -24,8 +24,8 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 ## Flagvinduer til OMJK's model huse
 
-|Flagvindue|
-|:---:|
-|![](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-09-18.png)|
+|Flagvindue||
+|:---:|:---:|
+|![front view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-09-18.png)|![Side view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-13-45.png)|
 
 * FreeCAD files here: [Flagvindue.FCStd](./Flagvindue/Flagvindue.FCStd)
