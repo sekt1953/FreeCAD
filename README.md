@@ -1,5 +1,9 @@
 # My FreeCAD-thing
 
+## Useful tools for optimizing your 3D Printer
+
+. 
+
 ## Hangers for SONOFF
 
 |SNZB-01|SNZB-03|
@@ -21,6 +25,18 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * [pwm_002.FCStd](./PWM_Light_Controller/pwm_002.FCStd)
 * Fritzing files for PCB here:
   * [PCB PWM_Light_Controller](https://github.com/sekt1953/Fritzing/tree/main/My_PCB/PWM_Light_Controller/)
+
+## Kabelholder
+
+|Kabelholder||
+|:---:|:---:|
+|![Skærmbillede%20fra%202023-11-23%2015-44-49.png](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-23%2015-44-49.png)|![Skærmbillede%20fra%202023-11-23%2015-45-18.png](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-23%2015-45-18.png)|
+
+* FreeCAD files here:
+  * [kabelophæng.FCStd](./Kabelophæng/kabelophæng.FCStd)
+  * [kabelophæng-Body.3mf](./Kabelophæng/kabelophæng-Body.3mf)
+
+
 
 ## Flagvinduer til OMJK's model huse
 
