@@ -36,8 +36,6 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * [kabelophæng.FCStd](./Kabelophæng/kabelophæng.FCStd)
   * [kabelophæng-Body.3mf](./Kabelophæng/kabelophæng-Body.3mf)
 
-
-
 ## Flagvinduer til OMJK's model huse
 
 |Flagvindue||
