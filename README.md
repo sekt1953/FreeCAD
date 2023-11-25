@@ -40,9 +40,9 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 ### Kabelholder med Spreadsheet
 
-|Back|Front|
-|:---:|:---:|
-|![Back](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-36-25.png)|![Front](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-35-54.png)|
+|Back|Front|Spreadsheet|
+|:---:|:---:|:---:|
+|![Back](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-36-25.png)|![Front](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-35-54.png)|![sheet](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-47-00.png)
 
 * FreeCAD files here:
   * [kabelophæng_Spreadsheet.FCStd](./Kabelophæng/kabelophæng_Spreadsheet.FCStd)
