@@ -26,9 +26,9 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 * Fritzing files for PCB here:
   * [PCB PWM_Light_Controller](https://github.com/sekt1953/Fritzing/tree/main/My_PCB/PWM_Light_Controller/)
 
-## Kabelholder
+## Cable holder
 
-### Kabelholder uden Spreadsheet
+### Cable holder without Spreadsheet
 
 |Back|Front|
 |:---:|:---:|
@@ -38,7 +38,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * [kabelophæng.FCStd](./Kabelophæng/kabelophæng.FCStd)
   * [kabelophæng-Body.3mf](./Kabelophæng/kabelophæng-Body.3mf)
 
-### Kabelholder med Spreadsheet
+### Cable holder with Spreadsheet
 
 |Back|Front|Spreadsheet|
 |:---:|:---:|:---:|
@@ -47,7 +47,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 * FreeCAD files here:
   * [kabelophæng_Spreadsheet.FCStd](./Kabelophæng/kabelophæng_Spreadsheet.FCStd)
   * [kabelophæng_Spreadsheet-Body.3mf](./Kabelophæng/kabelophæng_Spreadsheet-Body.3mf)
-
+  * [Spreadsheet](./Kabelophæng/kabelophæng_Spreadsheet.csv)
 
 ## Flagvinduer til OMJK's model huse
 
