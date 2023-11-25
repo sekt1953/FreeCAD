@@ -28,13 +28,26 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 ## Kabelholder
 
-|Kabelholder||
+### Kabelholder uden Spreadsheet
+
+|Back|Front|
 |:---:|:---:|
 |![Skærmbillede%20fra%202023-11-23%2015-44-49.png](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-23%2015-44-49.png)|![Skærmbillede%20fra%202023-11-23%2015-45-18.png](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-23%2015-45-18.png)|
 
 * FreeCAD files here:
   * [kabelophæng.FCStd](./Kabelophæng/kabelophæng.FCStd)
   * [kabelophæng-Body.3mf](./Kabelophæng/kabelophæng-Body.3mf)
+
+### Kabelholder med Spreadsheet
+
+|Back|Front|
+|:---:|:---:|
+|![Back](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-36-25.png)|![Front](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-35-54.png)|
+
+* FreeCAD files here:
+  * [kabelophæng_Spreadsheet.FCStd](./Kabelophæng/kabelophæng_Spreadsheet.FCStd)
+  * [kabelophæng_Spreadsheet-Body.3mf](./Kabelophæng/kabelophæng_Spreadsheet-Body.3mf)
+
 
 ## Flagvinduer til OMJK's model huse
 
