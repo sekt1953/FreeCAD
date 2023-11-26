@@ -14,6 +14,6 @@ Pad Type			Two dimensions
 Pad length			25		=D6	vPadlength
 Pad 2nd Length			5		=D5	vPad2ndLength
 Pocket length			25		=D6	vPocketlength
-Fillet Radius	3		3		=B16	vFilletRadius
-Fillet001 Radius	1		1		=B17	vFillet001Radius
-Fillet002 Radius	3		3		=B18	vFillet002Radius
+Fillet Radius	3		3		=B17	vFilletRadius
+Fillet001 Radius	1		1		=B18	vFillet001Radius
+Fillet002 Radius	3		3		=B19	vFillet002Radius

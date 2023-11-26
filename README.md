@@ -34,7 +34,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 |Spreadsheet|
 |:---:|
-|![sheet](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-39-39.png)
+|![sheet](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2015-26-19.png)
 
 * FreeCAD files here:
   * [kabelophæng_Spreadsheet.FCStd](./Kabelophæng/kabelophæng_Spreadsheet_002.FCStd)
