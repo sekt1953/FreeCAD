@@ -1,0 +1,19 @@
+Navn	Input	Gap	Output		Output Formula	Output Alias
+
+Ydre Diameter	160		160		=B3	vYdreDiameter
+Inder Diameter	100		100		=B4	vInderDiameter
+Vægtykkelse	5		5		=B5	vTykkelse
+Dybde	25		25		=B6	vDybde
+Bolt Diameter	4	0.5	4.5		=B7 + C7	vBolt
+Bolt Hoved Diameter	8	0.5	8.5		=B8 + C8	vBoltHoved
+Bolt Hoved Cover		2	12.5		=D8 + 2 * C9	vBoltHovedCover
+Ydre Cut Diameter			170		=D3 + 2 * D5	vYdreCut
+Inder Cut Diameter			110		=D4 + 2 * D5	vInderCut
+Bolt Hole Distance			50		=D4 / 2	vBoltHole
+Pad Type			Two dimensions
+Pad length			25		=D6	vPadlength
+Pad 2nd Length			5		=D5	vPad2ndLength
+Pocket length			25		=D6	vPocketlength
+Fillet Radius	3		3		=B16	vFilletRadius
+Fillet001 Radius	1		1		=B17	vFillet001Radius
+Fillet002 Radius	3		3		=B18	vFillet002Radius

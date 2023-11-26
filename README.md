@@ -38,16 +38,16 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * [kabelophæng.FCStd](./Kabelophæng/kabelophæng.FCStd)
   * [kabelophæng-Body.3mf](./Kabelophæng/kabelophæng-Body.3mf)
 
-### Cable holder with Spreadsheet
+### Cable suspension with parametric design (Spreadsheet)
 
 |Back|Front|Spreadsheet|
 |:---:|:---:|:---:|
-|![Back](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-36-25.png)|![Front](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-35-54.png)|![sheet](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-25%2009-47-00.png)
+|![Back](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-38-42.png)|![Front](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-39-10.png)|![sheet](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-39-39.png)
 
 * FreeCAD files here:
-  * [kabelophæng_Spreadsheet.FCStd](./Kabelophæng/kabelophæng_Spreadsheet.FCStd)
-  * [kabelophæng_Spreadsheet-Body.3mf](./Kabelophæng/kabelophæng_Spreadsheet-Body.3mf)
-  * [Spreadsheet](./Kabelophæng/kabelophæng_Spreadsheet.csv)
+  * [kabelophæng_Spreadsheet.FCStd](./Kabelophæng/kabelophæng_Spreadsheet_002.FCStd)
+  * [kabelophæng_Spreadsheet-Body.3mf](./Kabelophæng/kabelophæng_Spreadsheet_002-Body.3mf)
+  * [Spreadsheet](./Kabelophæng/kabelophæng_Spreadsheet_002.csv)
 
 ## Flagvinduer til OMJK's model huse
 
