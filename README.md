@@ -28,9 +28,13 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 ## Cable suspension with parametric design (Spreadsheet)
 
-|Back|Front|Spreadsheet|
-|:---:|:---:|:---:|
-|![Back](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-38-42.png)|![Front](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-39-10.png)|![sheet](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-39-39.png)
+|Back|Front|
+|:---:|:---:|
+|![Back](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-38-42.png)|![Front](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-39-10.png)|
+
+|Spreadsheet|
+|:---:|
+|![sheet](./Kabelophæng/Images/Skærmbillede%20fra%202023-11-26%2013-39-39.png)
 
 * FreeCAD files here:
   * [kabelophæng_Spreadsheet.FCStd](./Kabelophæng/kabelophæng_Spreadsheet_002.FCStd)
