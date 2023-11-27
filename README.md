@@ -40,6 +40,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * [kabelophæng_Spreadsheet.FCStd](./Kabelophæng/kabelophæng_Spreadsheet_002.FCStd)
   * [kabelophæng_Spreadsheet-Body.3mf](./Kabelophæng/kabelophæng_Spreadsheet_002-Body.3mf)
   * [Spreadsheet](./Kabelophæng/kabelophæng_Spreadsheet_002.csv)
+  * [Video](https://drive.google.com/drive/folders/1B0Qy-atrx_PQ4rntr0w2ogZp1AQuEfq7)
 
 ## Lampeophæng for Kirsch U-skinde
 
