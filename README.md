@@ -41,6 +41,15 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * [kabelophæng_Spreadsheet-Body.3mf](./Kabelophæng/kabelophæng_Spreadsheet_002-Body.3mf)
   * [Spreadsheet](./Kabelophæng/kabelophæng_Spreadsheet_002.csv)
 
+## Lampeophæng for Kirsch U-skinde
+
+|Lampeophæng||
+|:---:|:---:|
+|![view](./Lampeophæng/Images/Skærmbillede%20fra%202023-11-27%2015-15-26.png)||
+
+* FreeCAD files here: [Flagvindue.FCStd](./Lampeophæng/Lampeophaeng.FCStd)
+
+
 ## Flagvinduer til OMJK's model huse
 
 |Flagvindue||
