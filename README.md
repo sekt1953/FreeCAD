@@ -71,3 +71,4 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * Cadzis FreeCAD Beginner Tutorial.
     * [Shapebinder Explained. How to use it effectively. Must-Use tool in FreeCad](https://youtu.be/pDUWuVG13rI)
     * [How to use Shapebinder to maintain clearance between two bodies](https://youtu.be/ZIAvb7o4Z80)
+    * [FreeCad - Subshapebinder and Shapebinder differences and similarities. Use it Wisely....](https://youtu.be/0YVSNauW_Ro)
