@@ -61,14 +61,21 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 ## ShapeBinder Box & Lid
 
-|ShapeBinder Box & Lid||
+|ShapeBinder Box & Lid|Lid2|
 |:---:|:---:|
-|![view](./ShapeBinder/Images/Skærmbillede%20fra%202023-12-03%2016-08-32.png)||
+|![Box & Lid](./ShapeBinder/Images/Skærmbillede%20fra%202023-12-03%2016-08-32.png)|![Lid2](./ShapeBinder/Images/Skærmbillede%20fra%202023-12-03%2017-34-11.png)|
 
-* FreeCAD files here: [ShapeBinder_BoxAndLid.FCStd](./ShapeBinder/ShapeBinder_BoxAndLid.FCStd)
+* FreeCAD files here:
+  * FCStd
+    * [ShapeBinder_BoxAndLid.FCStd](./ShapeBinder/ShapeBinder_BoxAndLid.FCStd)
+  * 3mf
+    * [ShapeBinder_BoxAndLid-Box.3mf](./ShapeBinder/ShapeBinder_BoxAndLid-Box.3mf)
+    * [ShapeBinder_BoxAndLid-Lid.3mf](./ShapeBinder/ShapeBinder_BoxAndLid-Lid.3mf)
+    * [ShapeBinder_BoxAndLid-Lid_Clearence.3mf](./ShapeBinder/ShapeBinder_BoxAndLid-Lid_Clearence.3mf)
 * Video
   * sekt
     * [ShapeBinder Box & Lid](https://drive.google.com/file/d/1IJ5xImBLSEjFY-bU8gOTEWTWBXVP2fwC/view?usp=drive_link)
+    * [Lid2](https://drive.google.com/file/d/1rb-1IxWUfPNLqG8V89-fgO67qp4H94P-/view?usp=drive_link)
   * Cadzis FreeCAD Beginner Tutorial.
     * [Shapebinder Explained. How to use it effectively. Must-Use tool in FreeCad](https://youtu.be/pDUWuVG13rI)
     * [How to use Shapebinder to maintain clearance between two bodies](https://youtu.be/ZIAvb7o4Z80)
