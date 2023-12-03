@@ -58,3 +58,12 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 |![front view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-09-18.png)|![Side view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-13-45.png)|
 
 * FreeCAD files here: [Flagvindue.FCStd](./Flagvindue/Flagvindue.FCStd)
+
+## ShapeBinder Box & Lid
+
+|ShapeBinder Box & Lid||
+|:---:|:---:|
+|![view](./ShapeBinder/Images/Skærmbillede%20fra%202023-12-03%2016-08-32.png)||
+
+* FreeCAD files here: [ShapeBinder_BoxAndLid.FCStd](./ShapeBinder/ShapeBinder_BoxAndLid.FCStd)
+* Video [ShapeBinder_BoxAndLid](https://drive.google.com/file/d/1IJ5xImBLSEjFY-bU8gOTEWTWBXVP2fwC/view?usp=drive_link)
