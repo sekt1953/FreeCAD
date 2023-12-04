@@ -81,3 +81,20 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
     * [How to use Shapebinder to maintain clearance between two bodies](https://youtu.be/ZIAvb7o4Z80)
     * [FreeCad - Subshapebinder and Shapebinder differences and similarities. Use it Wisely....](https://youtu.be/0YVSNauW_Ro)
     * [How to use Datum Planes, Datum Lines in Multi Body Modeling](https://youtu.be/XOkPpmZc7es)
+
+## Herrnhuter Sterne
+
+|Octogon|Firkant spids|Trekant Spids|
+|:---:|:---:|:---:|
+|![Octogon](./HerrnhuterStjerne/Images/Skærmbillede%20fra%202023-12-04%2020-44-48.png)|![Firkant spids](./HerrnhuterStjerne/Images/Skærmbillede%20fra%202023-12-04%2020-56-02.png)|![Trekant Spids](./HerrnhuterStjerne/Images/Skærmbillede%20fra%202023-12-04%2020-55-43.png)|
+
+* FreeCAD files here:
+  * FCStd
+    * [HerrnhuterStjerne.FCStd](./HerrnhuterStjerne/HerrnhuterStjerne.FCStd)
+  * 3mf
+    * [HerrnhuterStjerne-Base.3mf](./HerrnhuterStjerne/HerrnhuterStjerne-Base.3mf)
+    * [HerrnhuterStjerne-StjerneFirkant.3mf](./HerrnhuterStjerne/HerrnhuterStjerne-StjerneFirkant.3mf)
+    * [HerrnhuterStjerne-StjerneTrekant.3mf](./HerrnhuterStjerne/HerrnhuterStjerne-StjerneTrekant.3mf)
+* Video
+  * SEKT
+    * [Herrnhuter Sterne](https://drive.google.com/file/d/11t6i5ICQ9I6pCZdTFd_NrP_ysMxAaNRn/view?usp=drive_link)
