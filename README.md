@@ -98,3 +98,5 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 * Video
   * SEKT
     * [Herrnhuter Sterne](https://drive.google.com/file/d/11t6i5ICQ9I6pCZdTFd_NrP_ysMxAaNRn/view?usp=drive_link)
+* Historie
+  * [Om adventsstjerner](https://adventsstjerner.dk/om-adventsstjerner/)
