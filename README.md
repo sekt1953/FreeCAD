@@ -100,3 +100,69 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
     * [Herrnhuter Sterne](https://drive.google.com/file/d/11t6i5ICQ9I6pCZdTFd_NrP_ysMxAaNRn/view?usp=drive_link)
 * Historie
   * [Om adventsstjerner](https://adventsstjerner.dk/om-adventsstjerner/)
+
+## Juletræ
+
+Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD ](https://youtu.be/QQ1Ci-dyqz0)
+
+|Sketcher|||
+|:---:|:---:|:---:|
+|![Sketch](./Juletræ/Images/Skærmbillede%20fra%202023-12-15%2021-07-07.png) |![sketcher](./Juletræ/Images/Skærmbillede%20fra%202023-12-15%2021-01-40.png)||
+
+|Part|Part Design||
+|:---:|:---:|:---:|
+![part](./Juletræ/Images/Skærmbillede%20fra%202023-12-15%2022-36-46.png)|![partdesign](./Juletræ/Images/Skærmbillede%20fra%202023-12-15%2022-45-26.png)
+
+
+* FreeCAD files here:
+  * FCStd
+    * [ChristmasTree.Sketch.FCStd](./Juletræ/ChristmasTree.Sketch.FCStd)
+    * [ChristmasTree.Part.FCStd](./Juletræ/ChristmasTree.Part.FCStd)
+    * [ChristmasTree.PartDesignPad.FCStd](./Juletræ/ChristmasTree.PartDesignPad.FCStd)
+
+### How to
+
+* File New : ChristmasTree.FCStd
+  * Open Sketcher
+    * draw master sketch
+  * Open Part
+    * Select Sketch
+    * Part->Compound->Explode compound
+  * Open Part Design
+    * Select Combo View-> Sketch.0
+      * Create Body
+      * Select Body->BaseFeature
+      * Pad
+        * Type: Dimension
+        * Length: 5 mm
+        * Symmetric to plane: true
+    * Select Combo View-> Sketch.1
+      * Create Body001
+      * Select Body001->BaseFeature001
+      * Pad
+        * Type: Dimension
+        * Length: 5 mm
+        * Symmetric to plane: true
+    * Select Combo View-> Sketch.2
+      * Create Body002
+      * Select Body002->BaseFeature002
+      * Pad
+        * Type: Dimension
+        * Length: 5 mm
+        * Symmetric to plane: true
+    * Select Combo View-> Sketch.3
+      * Create Body003
+      * Select Body003->BaseFeature003
+      * Pad
+        * Type: Dimension
+        * Length: 5 mm
+        * Symmetric to plane: true
+    * Select Combo View-> Sketch.4
+      * Create Body004
+      * Select Body004->BaseFeature004
+      * Pad
+        * Type: Dimension
+        * Length: 5 mm
+        * Symmetric to plane: true
+
+
