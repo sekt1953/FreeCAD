@@ -107,7 +107,7 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD ](https://yo
 
 |Sketcher|||
 |:---:|:---:|:---:|
-|![Sketch](./Juletræ/Images/Skærmbillede%20fra%202023-12-15%2021-07-07.png) |![sketcher](./Juletræ/Images/Skærmbillede%20fra%202023-12-15%2021-01-40.png)||
+|![Sketch](./Juletræ/Images/Skærmbillede%20fra%202023-12-15%2021-07-07.png)|![](./Juletræ/Images/Skærmbillede%20fra%202023-12-15%2023-43-47.png) |![sketcher](./Juletræ/Images/Skærmbillede%20fra%202023-12-15%2021-01-40.png)|
 
 |Part|Part Design||
 |:---:|:---:|:---:|
@@ -118,7 +118,9 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD ](https://yo
   * FCStd
     * [ChristmasTree.Sketch.FCStd](./Juletræ/ChristmasTree.Sketch.FCStd)
     * [ChristmasTree.Part.FCStd](./Juletræ/ChristmasTree.Part.FCStd)
-    * [ChristmasTree.PartDesignPad.FCStd](./Juletræ/ChristmasTree.PartDesignPad.FCStd)
+    * [ChristmasTree.PartDesignPad.FCStd](./Juletræ/ChristmasTree.PartDesign.Pad.FCStd)
+    * [ChristmasTree.PartDesign.SubShapeBinder.FCStd](./Juletræ/ChristmasTree.PartDesign.SubShapeBinder.FCStd)
+    * [ChristmasTree.PartDesign.Mirrored.FCStd](./Juletræ/ChristmasTree.PartDesign.Mirrored.FCStd)
 
 ### How to
 
