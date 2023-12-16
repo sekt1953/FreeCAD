@@ -154,3 +154,4 @@
       * Type: **Through all**
   * ![ChristmasTree_Hinge_Body](./Images/ChristmasTree_Hinge_Body.png)
   * Save: **ChristmasTree_Hinge.FCStd**
+* ![ChristmasTree_Hinge_All](./Images/ChristmasTree_Hinge_All.png)
