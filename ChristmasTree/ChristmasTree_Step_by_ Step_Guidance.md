@@ -2,15 +2,17 @@
 
 ## Create New File
 
-* Open FreeCAD in **Sketcher Workbench**
-  * Save As: ChristmasTree.FCStd
+* Open FreeCAD in **Spreadsheet Workbench**
+  * Create Master Spreadsheet
+    * ![master_spreadsheet_images](./Images/master_spreadsheet_images.png)
+  * Save As: ChristmasTree_MasterSkech.FCStd
 
 ## Draw the Master Sketch
 
-* Draw the Master Sketch
-  * [Master Sketch](./ChristmasTree.Sketch.FCStd)
-  * ![master_sketch_images](./Images/Skærmbillede%20fra%202023-12-15%2021-07-07.png)
-  * ![master_spreadsheet_images](./Images/)
+* Select **Sketcher Workbench**
+  * Draw the Master Sketch
+    * [Master Sketch](./ChristmasTree.Sketch.FCStd)
+    * ![master_sketch_images](./Images/Skærmbillede%20fra%202023-12-15%2021-07-07.png)
 
 ## Explode Compound
 
