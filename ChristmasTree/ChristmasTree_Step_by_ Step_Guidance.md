@@ -4,7 +4,7 @@
 
 * Open FreeCAD in **Spreadsheet Workbench**
   * Create Master Spreadsheet
-    * ![master_spreadsheet_images](./Images/master_spreadsheet_images.png)
+    * ![master_spreadsheet_images](./Images/master_spreadsheet_images1.png)
   * Save As: ChristmasTree_MasterSketch.FCStd
 
 ## Create the Master Sketch
