@@ -113,7 +113,6 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
 |:---:|:---:|:---:|
 ![part](./ChristmasTree/Images/Skærmbillede%20fra%202023-12-15%2022-36-46.png)|![partdesign](./ChristmasTree/Images/Skærmbillede%20fra%202023-12-15%2022-45-26.png)
 
-
 * FreeCAD files here:
   * FCStd
     * [ChristmasTree_MasterSketch.FCStd](./ChristmasTree/ChristmasTree_MasterSketch.FCStd)
