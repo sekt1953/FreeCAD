@@ -116,10 +116,10 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
 
 * FreeCAD files here:
   * FCStd
-    * [ChristmasTree.Sketch.FCStd](./ChristmasTree/ChristmasTree.Sketch.FCStd)
-    * [ChristmasTree.Part.FCStd](./ChristmasTree/ChristmasTree.Part.FCStd)
-    * [ChristmasTree.PartDesignPad.FCStd](./ChristmasTree/ChristmasTree.PartDesign.Pad.FCStd)
-    * [ChristmasTree.PartDesign.SubShapeBinder.FCStd](./ChristmasTree/ChristmasTree.PartDesign.SubShapeBinder.FCStd)
-    * [ChristmasTree.PartDesign.Mirrored.FCStd](./ChristmasTree/ChristmasTree.PartDesign.Mirrored.FCStd)
+    * [ChristmasTree_MasterSketch.FCStd](./ChristmasTree/ChristmasTree_MasterSketch.FCStd)
+    * [ChristmasTree_ExplodeCompound.FCStd](./ChristmasTree/ChristmasTree_ExplodeCompound.FCStd)
+    * [hristmasTree_PadCompound.FCStd](./ChristmasTree/hristmasTree_PadCompound.FCStd)
+    * [ChristmasTree_Hinge.FCStd](./ChristmasTree/ChristmasTree_Hinge.FCStd)
+    * [ChristmasTree_Mirror.FCStd](./ChristmasTree/ChristmasTree_Mirror.FCStd)
 * How to Draw my ChristmasTree
-  * [ChristmasTree Step by Step Guidance](./ChristmasTree/ChristmasTree_Step_by_%20Step_Guidance.md)
+  * [ChristmasTree Step by Step Guidance](./ChristmasTree/ChristmasTree_Step_by_Step_Guidance.md)

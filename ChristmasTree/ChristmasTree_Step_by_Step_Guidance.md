@@ -155,3 +155,76 @@
   * ![ChristmasTree_Hinge_Body](./Images/ChristmasTree_Hinge_Body.png)
   * Save: **ChristmasTree_Hinge.FCStd**
 * ![ChristmasTree_Hinge_All](./Images/ChristmasTree_Hinge_All.png)
+
+## create movement freedom and mirror Element
+
+* Make Active Body: **Body004**
+  * Create Sketch
+    * Select feature: YZ-plane004 (Base plane)
+    * Create External geometry
+    * Create Arc
+      * Radius: **Spreadsheet.vFreedom_Radius**
+      * Constrain Vertical
+    * Create Rectangle
+    * Trim Edge
+    * Pocket Sketch
+      * Type: **Through all**
+  * Mirror: Pad004 + Pocket + Pocket005
+    * Plane: Base YZ plane
+  * ![ChristmasTree_Mirror_Body004](./Images/ChristmasTree_Mirror_Body004.png)
+  * Save As: **ChristmasTree_Mirror.FCStd**
+* Make Active Body: **Body003**
+  * Create Sketch
+    * Select feature: YZ-plane003 (Base plane)
+    * Create External geometry
+    * Create Slot
+      * Radius: **Spreadsheet.vFreedom_Radius**
+    * Create Rectangle
+    * Pocket Sketch
+      * Type: **Through all**
+  * Mirror: Pad003 + Binder + Pad005 + Pocket001 + Pocket006
+    * Plane: Base YZ plane
+  * ![ChristmasTree_Mirror_Body003](./Images/ChristmasTree_Mirror_Body003a.png)
+  * Save: **ChristmasTree_Mirror.FCStd**
+* Make Active Body: **Body002**
+  * Create Sketch
+    * Select feature: YZ-plane002 (Base plane)
+    * Create External geometry
+    * Create Slot
+      * Radius: **Spreadsheet.vFreedom_Radius**
+    * Create Rectangle
+    * Pocket Sketch
+      * Type: **Through all**
+  * Mirror: Pad002 + Binder001 + Pad006 + Pocket002 + Pocket007
+    * Plane: Base YZ plane
+  * ![ChristmasTree_Mirror_Body002](./Images/ChristmasTree_Mirror_Body002.png)
+  * Save: **ChristmasTree_Mirror.FCStd**
+* Make Active Body: **Body001**
+  * Create Sketch
+    * Select feature: YZ-plane001 (Base plane)
+    * Create External geometry
+    * Create Slot
+      * Radius: **Spreadsheet.vFreedom_Radius**
+    * Create Rectangle
+    * Pocket Sketch
+      * Type: **Through all**
+  * Mirror: Pad001 + Binder002 + Pad007 + Pad008 + Pocket008
+
+    * Plane: Base YZ plane
+  * ![ChristmasTree_Mirror_Body001](./Images/ChristmasTree_Mirror_Body001.png)
+  * Save: **ChristmasTree_Mirror.FCStd**
+* Make Active Body: **Body**
+  * Create Sketch
+    * Select feature: YZ-plane (Base plane)
+    * Create External geometry
+    * Create Arc
+      * Radius: **Spreadsheet.vFreedom_Radius**
+      * Constrain Vertical
+    * Create Rectangle
+    * Trim Edge
+    * Pocket Sketch
+      * Type: **Through all**
+  * Mirror: Pad + Binder003 + Pocket003 + Pocket004 + Pocket009
+    * Plane: Base YZ plane
+  * ![ChristmasTree_Mirror_Body](./Images/ChristmasTree_Mirror_Body.png)
+  * Save As: **ChristmasTree_Mirror.FCStd**
