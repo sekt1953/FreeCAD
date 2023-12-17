@@ -2,7 +2,7 @@
 
 ## Inspired by: 
 
-* MangoJelly Solutions for FreeCAD's
+* [MangoJelly Solutions for FreeCAD's](https://www.youtube.com/@MangoJellySolutions)
   * [Build A Flexible Christmas Tree Decoration in FreeCAD](https://youtu.be/QQ1Ci-dyqz0)
 
 
