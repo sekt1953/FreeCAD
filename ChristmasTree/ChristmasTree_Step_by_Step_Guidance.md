@@ -23,7 +23,7 @@
     * Save: **ChristmasTree_MasterSketch.FCStd**
 
 ## Explode Compound
-
+ 
 * Select **Part Workbench**
   * Select **Sketch**
     * Select **Part->Compound->Explode compound**
