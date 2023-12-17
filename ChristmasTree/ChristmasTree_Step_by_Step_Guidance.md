@@ -237,5 +237,13 @@
 
 ## Cura
 
-* Picture of cura layer 17, center of interconnection
-  * ![Cura_Layer_17](./Images/Cura_Layer_17.png)
+### Picture of cura layer 6 - 17, center of interconnection
+
+|Layer 6,8,10,12,14,16|Layer 7,9,11,13,15,17|
+|:---:|:---:|
+|![](./Images/Cura_Layer_6.png)|![](./Images/Cura_Layer_7.png)|
+|![](./Images/Cura_Layer_8.png)|![](./Images/Cura_Layer_9.png)|
+|![](./Images/Cura_Layer_10.png)|![](./Images/Cura_Layer_11.png)|
+|![](./Images/Cura_Layer_12.png)|![](./Images/Cura_Layer_13.png)|
+|![](./Images/Cura_Layer_14.png)|![](./Images/Cura_Layer_15.png)|
+|![](./Images/Cura_Layer_16.png)|![](./Images/Cura_Layer_17.png)|
