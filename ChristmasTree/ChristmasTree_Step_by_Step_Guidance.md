@@ -1,5 +1,11 @@
 # ChristmasTree Step by Step Guidance
 
+## Inspired by: 
+
+* MangoJelly Solutions for FreeCAD's
+  * [Build A Flexible Christmas Tree Decoration in FreeCAD](https://youtu.be/QQ1Ci-dyqz0)
+
+
 ## Create New File
 
 * Open FreeCAD in **Spreadsheet Workbench**

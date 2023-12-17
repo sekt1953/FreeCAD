@@ -103,15 +103,11 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 ## Juletræ
 
-Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://youtu.be/QQ1Ci-dyqz0)
+Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://youtu.be/QQ1Ci-dyqz0 "MangoJelly Solutions for FreeCAD")
 
-|Sketcher|||
+|Master Sketch|Spreadsheet|Resultat|
 |:---:|:---:|:---:|
-|![Sketch](./ChristmasTree/Images/Skærmbillede%20fra%202023-12-15%2021-07-07.png)|![](./ChristmasTree/Images/Skærmbillede%20fra%202023-12-15%2023-43-47.png) |![sketcher](./ChristmasTree/Images/Skærmbillede%20fra%202023-12-15%2021-01-40.png)|
-
-|Part|Part Design||
-|:---:|:---:|:---:|
-![part](./ChristmasTree/Images/Skærmbillede%20fra%202023-12-15%2022-36-46.png)|![partdesign](./ChristmasTree/Images/Skærmbillede%20fra%202023-12-15%2022-45-26.png)
+|![Sketch](./ChristmasTree/Images/master_sketch_images.png)|![](./ChristmasTree/Images/master_spreadsheet_images.png) |![sketcher](./ChristmasTree/Images/ChristmasTree_Mirror_Body.png)|
 
 * FreeCAD files here:
   * FCStd
