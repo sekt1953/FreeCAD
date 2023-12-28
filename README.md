@@ -118,3 +118,14 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
     * [ChristmasTree_Mirror.FCStd](./ChristmasTree/ChristmasTree_Mirror.FCStd)
 * How to Draw my ChristmasTree
   * [ChristmasTree Step by Step Guidance](./ChristmasTree/ChristmasTree_Step_by_Step_Guidance.md)
+
+## Aqara Motion Sensor P1 Holder
+
+![AqaraMotionSensorP1Holder](./Aqara/AqaraMotionSensorP1/Images/Skærmbillede%20fra%202023-12-28%2019-47-12.png)
+
+* FreeCAD files here:
+  * FCStd
+    * [AqaraMotionSensorHolder.FCStd](./Aqara/AqaraMotionSensorP1/AqaraMotionSensorHolder.FCStd)
+  * 3mf
+    * [AqaraMotionSensorHolder-Version001.3mf](./Aqara/AqaraMotionSensorP1/AqaraMotionSensorHolder-Version001.3mf)
+
