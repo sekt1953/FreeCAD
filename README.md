@@ -131,3 +131,14 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
   * 3mf
     * [AqaraMotionSensorHolder-Version001.3mf](./Aqara/AqaraMotionSensorP1/AqaraMotionSensorHolder-Version001.3mf)
 
+## OMJK
+
+### Cover for LeadDriverv6.1
+
+![LeadDriverv6.1](./LeadDriverv6.1/Images/Skærmbillede%20fra%202024-01-04%2020-27-33.png)
+
+* FreeCAD files here:
+  * FCStd
+    * [LedDriverv6.1a.FCStd](./LeadDriverv6.1/LedDriverv6.1a.FCStd)
+  * 3mf
+    * [LedDriverv6.1a-Cut004.3mf](./LeadDriverv6.1/LedDriverv6.1a-Cut004.3mf)
