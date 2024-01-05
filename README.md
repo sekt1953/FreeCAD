@@ -1,10 +1,8 @@
 # My FreeCAD-thing
 
-## Useful tools for optimizing your 3D Printer
+## Tools for my Home Assistant
 
-. 
-
-## Hangers for SONOFF
+### For SONOFF SNZB-01 / -03
 
 |SNZB-01|SNZB-03|
 |:---:|:---:|
@@ -17,7 +15,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * [SONOFF SNZB-01 ZigBee Wireless Switch](./SNZB-01/)
   * [SONOFF SNZB-03 ZigBee Motion Sensor](./SNZB-03/)
 
-## Housing for home-built, 6 channel PWM Light Controller
+### Housing for home-built, 6 channel PWM Light Controller
 
 ![](./PWM_Light_Controller/Images/Skærmbillede%20fra%202022-10-19%2022-08-58.png)
 
@@ -26,7 +24,31 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 * Fritzing files for PCB here:
   * [PCB PWM_Light_Controller](https://github.com/sekt1953/Fritzing/tree/main/My_PCB/PWM_Light_Controller/)
 
-## Cable suspension with parametric design (Spreadsheet)
+### Aqara
+
+#### Aqara Motion Sensor P1 Holder
+
+![AqaraMotionSensorP1Holder](./Aqara/AqaraMotionSensorP1/Images/Skærmbillede%20fra%202023-12-28%2019-47-12.png)
+
+* FreeCAD files here:
+  * FCStd
+    * [AqaraMotionSensorHolder.FCStd](./Aqara/AqaraMotionSensorP1/AqaraMotionSensorHolder.FCStd)
+  * 3mf
+    * [AqaraMotionSensorHolder-Version001.3mf](./Aqara/AqaraMotionSensorP1/AqaraMotionSensorHolder-Version001.3mf)
+
+<hr/>
+
+## Tools for my House
+
+### Lampeophæng for Kirsch U-skinde
+
+|Lampeophæng||
+|:---:|:---:|
+|![view](./Lampeophæng/Images/Skærmbillede%20fra%202023-11-27%2015-15-26.png)||
+
+* FreeCAD files here: [Flagvindue.FCStd](./Lampeophæng/Lampeophaeng.FCStd)
+
+### Cable suspension with parametric design (Spreadsheet)
 
 |Back|Front|
 |:---:|:---:|
@@ -42,24 +64,11 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * [Spreadsheet](./Kabelophæng/kabelophæng_Spreadsheet_002.csv)
   * [Video](https://drive.google.com/drive/folders/1B0Qy-atrx_PQ4rntr0w2ogZp1AQuEfq7)
 
-## Lampeophæng for Kirsch U-skinde
+<hr/>
 
-|Lampeophæng||
-|:---:|:---:|
-|![view](./Lampeophæng/Images/Skærmbillede%20fra%202023-11-27%2015-15-26.png)||
+## FreeCAD Kursus Seniorværkstedet Ringe
 
-* FreeCAD files here: [Flagvindue.FCStd](./Lampeophæng/Lampeophaeng.FCStd)
-
-
-## Flagvinduer til OMJK's model huse
-
-|Flagvindue||
-|:---:|:---:|
-|![front view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-09-18.png)|![Side view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-13-45.png)|
-
-* FreeCAD files here: [Flagvindue.FCStd](./Flagvindue/Flagvindue.FCStd)
-
-## ShapeBinder Box & Lid
+### ShapeBinder Box & Lid
 
 |ShapeBinder Box & Lid|Lid2|
 |:---:|:---:|
@@ -82,7 +91,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
     * [FreeCad - Subshapebinder and Shapebinder differences and similarities. Use it Wisely....](https://youtu.be/0YVSNauW_Ro)
     * [How to use Datum Planes, Datum Lines in Multi Body Modeling](https://youtu.be/XOkPpmZc7es)
 
-## Herrnhuter Sterne
+### Herrnhuter Sterne
 
 |Octogon|Firkant spids|Trekant Spids|
 |:---:|:---:|:---:|
@@ -101,7 +110,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 * Historie
   * [Om adventsstjerner](https://adventsstjerner.dk/om-adventsstjerner/)
 
-## Juletræ
+### Juletræ
 
 Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://youtu.be/QQ1Ci-dyqz0 "MangoJelly Solutions for FreeCAD")
 
@@ -119,17 +128,7 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
 * How to Draw my ChristmasTree
   * [ChristmasTree Step by Step Guidance](./ChristmasTree/ChristmasTree_Step_by_Step_Guidance.md)
 
-## Aqara
-
-### Aqara Motion Sensor P1 Holder
-
-![AqaraMotionSensorP1Holder](./Aqara/AqaraMotionSensorP1/Images/Skærmbillede%20fra%202023-12-28%2019-47-12.png)
-
-* FreeCAD files here:
-  * FCStd
-    * [AqaraMotionSensorHolder.FCStd](./Aqara/AqaraMotionSensorP1/AqaraMotionSensorHolder.FCStd)
-  * 3mf
-    * [AqaraMotionSensorHolder-Version001.3mf](./Aqara/AqaraMotionSensorP1/AqaraMotionSensorHolder-Version001.3mf)
+<hr/>
 
 ## OMJK
 
@@ -142,3 +141,11 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
     * [LedDriverv6.1a.FCStd](./LeadDriverv6.1/LedDriverv6.1a.FCStd)
   * 3mf
     * [LedDriverv6.1a-Cut004.3mf](./LeadDriverv6.1/LedDriverv6.1a-Cut004.3mf)
+
+### Flagvinduer til OMJK's model huse
+
+|Flagvindue||
+|:---:|:---:|
+|![front view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-09-18.png)|![Side view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-13-45.png)|
+
+* FreeCAD files here: [Flagvindue.FCStd](./Flagvindue/Flagvindue.FCStd)
