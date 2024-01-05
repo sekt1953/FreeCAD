@@ -141,6 +141,8 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
     * [LedDriverv6.1a.FCStd](./LeadDriverv6.1/LedDriverv6.1a.FCStd)
   * 3mf
     * [LedDriverv6.1a-Cut004.3mf](./LeadDriverv6.1/LedDriverv6.1a-Cut004.3mf)
+* Fritzing Files here:
+  * [leddriver-with-optocoupler](https://github.com/sekt1953/Fritzing/blob/main/My_PCB/README.md#leddriver-with-optocoupler)
 
 ### Flagvinduer til OMJK's model huse
 
