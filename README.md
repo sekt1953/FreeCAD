@@ -141,8 +141,6 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
     * [LedDriverv6.1a.FCStd](./LeadDriverv6.1/LedDriverv6.1a.FCStd)
   * 3mf
     * [LedDriverv6.1a-Cut004.3mf](./LeadDriverv6.1/LedDriverv6.1a-Cut004.3mf)
-* Fritzing PCB files here:
-  * [PCB-LedDriver-V6.1](../../GitHub/Fritzing/My_PCB/LedDriver/v6.1/)
 
 ### Flagvinduer til OMJK's model huse
 
