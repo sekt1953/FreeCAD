@@ -1,5 +1,24 @@
 # My FreeCAD-thing
 
+## Index
+
+* [Tools for my Home Assistant](./README.md#tools-for-my-home-assistant)
+  * [For SONOFF SNZB-01 / -03](./README.md#for-sonoff-snzb-01---03)
+  * [Housing for home-built, 6 channel PWM Light Controller](./README.md#housing-for-home-built-6-channel-pwm-light-controller)
+  * [Aqara Motion Sensor P1 Holder](./README.md#aqara-motion-sensor-p1-holder)
+* [Tools for my House](./README.md#tools-for-my-house)
+  * [Lampeophæng for Kirsch U-skinde](./README.md#lampeophæng-for-kirsch-u-skinde)
+  * [Cable suspension with parametric design (Spreadsheet)](./README.md#cable-suspension-with-parametric-design-spreadsheet)
+* [FreeCAD Kursus Seniorværkstedet Ringe](./README.md#freecad-kursus-seniorværkstedet-ringe)
+  * [ShapeBinder Box & Lid](./README.md#shapebinder-box--lid)
+  * [Herrnhuter Sterne](./README.md#herrnhuter-sterne)
+  * [Juletræ](./README.md#juletræ)
+  * [Curved Shapes Workbench](./README.md#curved-shapes-workbench)
+* [OMJK](./README.md#omjk)
+  * [Mount for LeadDriverv6.1](./README.md#mount-for-leaddriverv61)
+  * [Flagvinduer til OMJK's model huse](./README.md#flagvinduer-til-omjks-model-huse)
+
+
 ## Tools for my Home Assistant
 
 ### For SONOFF SNZB-01 / -03
