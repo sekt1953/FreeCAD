@@ -128,6 +128,14 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
 * How to Draw my ChristmasTree
   * [ChristmasTree Step by Step Guidance](./ChristmasTree/ChristmasTree_Step_by_Step_Guidance.md)
 
+### Curved Shapes Workbench
+
+* Kilde:
+  * MangoJelly Solutions for FreeCAD
+    * [EASIEST Boat Build in FreeCAD! Unleashing the Magic of Curved Shapes Workbench](https://youtu.be/-539fgU50Bw "MangoJelly Solutions for FreeCAD")
+    * [FreeCAD Curved Surfaces the Easy Way | Helicopter Canopy | Protogen Helmet Visor](https://youtu.be/VMO4Huil4-k "MangoJelly Solutions for FreeCAD")
+    * [FreeCAD Curves Workbench](https://www.youtube.com/playlist?list=PLWuyJLVUNtc3qvjX-xWLeHHlpYPiEKMmC)
+
 <hr/>
 
 ## OMJK
