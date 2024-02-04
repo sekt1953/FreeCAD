@@ -7,6 +7,7 @@
   * [Housing for home-built, 6 channel PWM Light Controller](./README.md#housing-for-home-built-6-channel-pwm-light-controller)
   * [Aqara Motion Sensor P1 Holder](./README.md#aqara-motion-sensor-p1-holder)
 * [Tools for my House](./README.md#tools-for-my-house)
+  * [IHC Replacement](./README.md#ihc-replacement)
   * [Lampeophæng for Kirsch U-skinde](./README.md#lampeophæng-for-kirsch-u-skinde)
   * [Cable suspension with parametric design (Spreadsheet)](./README.md#cable-suspension-with-parametric-design-spreadsheet)
 * [FreeCAD Kursus Seniorværkstedet Ringe](./README.md#freecad-kursus-seniorværkstedet-ringe)
