@@ -63,16 +63,17 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 ### IHC Replacement
 
-|DIN-Box-170 in design for now||
-|:---:|:---:|
-|![DinBox](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2013-03-39.png)||
+|DIN-Box-170 in design for now|Body001||
+|:---:|:---:|:---:|
+|![DinBox](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2013-03-39.png)|![](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2014-48-25.png)|![](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2014-47-26.png)|
 
 * FreeCAD files here:
   * FCStd:
     * [DIN-Box-170.FCStd](./IHC-Replacement/DIN-Box-170.FCStd)
   * 3mf:
     * [DIN-Box-170-Body.3mf](./IHC-Replacement/DIN-Box-170-Body.3mf)
-  
+    * [DIN-Box-170-Body001.3mf](./IHC-Replacement/DIN-Box-170-Body001.3mf)
+
 ### Lampeophæng for Kirsch U-skinde
 
 |Lampeophæng||
