@@ -60,6 +60,18 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 ## Tools for my House
 
+### IHC Replacement
+
+|DIN-Box-170||
+|:---:|:---:|
+|![DinBox](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2013-03-39.png)||
+
+* FreeCAD files here:
+  * FCStd:
+    * [DIN-Box-170.FCStd](./IHC-Replacement/DIN-Box-170.FCStd)
+  * 3mf:
+    * [DIN-Box-170-Body.3mf](./IHC-Replacement/DIN-Box-170-Body.3mf)
+  
 ### Lampeophæng for Kirsch U-skinde
 
 |Lampeophæng||
