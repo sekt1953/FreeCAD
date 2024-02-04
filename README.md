@@ -65,7 +65,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 |DIN-Box-170 in design for now|Body001||
 |:---:|:---:|:---:|
-|![DinBox](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2013-03-39.png)|![](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2014-48-25.png)|![](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2014-47-26.png)|
+|![DinBox](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2013-03-39.png)|![](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2014-48-25.png)|![](./IHC-Replacement/Images/Skærmbillede%20fra%202024-02-04%2015-26-50.png)|
 
 * FreeCAD files here:
   * FCStd:
