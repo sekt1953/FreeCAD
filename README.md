@@ -61,7 +61,7 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
 
 ## Tools for my House
 
-### IHC Replacement in design
+### IHC Replacement
 
 |DIN-Box-170||
 |:---:|:---:|
