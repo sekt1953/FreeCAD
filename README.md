@@ -17,6 +17,7 @@
 * [OMJK](./README.md#omjk)
   * [Mount for LeadDriverv6.1](./README.md#mount-for-leaddriverv61)
   * [Flagvinduer til OMJK's model huse](./README.md#flagvinduer-til-omjks-model-huse)
+  * [Mount for WR-922](./Mount_WR-922/)
 
 
 ## Tools for my Home Assistant
@@ -180,3 +181,15 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
 |![front view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-09-18.png)|![Side view](./Flagvindue/Images/Skærmbillede%20fra%202023-11-08%2015-13-45.png)|
 
 * FreeCAD files here: [Flagvindue.FCStd](./Flagvindue/Flagvindue.FCStd)
+
+### Mount for WR-Typ 922 PCB
+
+|WR-Typ 922|
+|:---:|
+|![WR-922](./Mount_WR-922/Images/Skærmbillede%20fra%202024-02-04%2011-22-15.png)|
+
+* FreeCAD files here:
+  * FCStd
+    * [WR-922_160x100.FCStd](./Mount_WR-922/WR-922_160x100.FCStd)
+  * 3mf
+    * [WR-922_160x100-Body001.3mf](./Mount_WR-922/WR-922_160x100-Body001.3mf)
