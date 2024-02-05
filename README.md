@@ -73,6 +73,9 @@ I attach the holders to the wall with 'NANO GEL TAPE' ISBN: 5-706245-132623 from
   * 3mf:
     * [DIN-Box-170-Body.3mf](./IHC-Replacement/DIN-Box-170-Body.3mf)
     * [DIN-Box-170-Body001.3mf](./IHC-Replacement/DIN-Box-170-Body001.3mf)
+* Fritzing files here:
+  * FZZ:
+    * [IHC_Replacment_001.fzz](https://github.com/sekt1953/Fritzing/blob/main/My_PCB/README.md#ihc-replacement)
 
 ### Lampeophæng for Kirsch U-skinde
 
