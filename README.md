@@ -19,6 +19,7 @@
   * [Mount for LeadDriverv6.1](./README.md#mount-for-leaddriverv61)
   * [Mount for WR-922](./README.md#mount-for-wr-typ-922-pcb)
   * [Mount for PCA9685](./README.md#mount-for-pca9685-pcb)
+  * [ESP32_30Pin_Expansionboard PCB](./README.md#esp32_30pin_expansionboard-pcb)
   * [Flagvinduer til OMJK's model huse](./README.md#flagvinduer-til-omjks-model-huse)
 
 ## Tools for my Home Assistant
