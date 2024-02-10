@@ -214,6 +214,22 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
     * [PCA9685.FCStd](./PCA9685/PCA9685.FCStd)
   * 3mf
     * [PCA9685-2xPCA9685.3mf](./PCA9685/PCA9685-2xPCA9685.3mf)
+* Leverandør:
+  * [PCA9685PW 16 Channel 12-bit PWM](https://www.aliexpress.com/item/32332640430.html?spm=a2g0o.productlist.main.5.2ee06711mrVP3m&algo_pvid=84dc2e01-6d86-4d11-80d1-443e69156be9&algo_exp_id=84dc2e01-6d86-4d11-80d1-443e69156be9-2&pdp_npi=4%40dis%21DKK%2118.67%2118.67%21%21%212.70%212.70%21%402101d69a17076041626042725e2fe1%2112000030661654041%21sea%21DK%21776792731%21&curPageLogUid=96KKA0wBHaFT&utparam-url=scene%3Asearch%7Cquery_from%3A "www.aliexpress.com")
+
+### ESP32_30Pin_Expansionboard PCB
+
+|View|
+|:---:|
+|![View](./ESP32_30Pin_Expansionboard/Images/Skærmbillede%20fra%202024-02-10%2023-11-55.png)|
+
+* FreeCAD files here:
+  * FCStd
+    * [ESP32_30Pin_Expansionboard_01.FCStd](./ESP32_30Pin_Expansionboard/ESP32_30Pin_Expansionboard_01.FCStd)
+  * 3mf
+    * [ESP32_30Pin_Expansionboard_01-Body.3mf](./ESP32_30Pin_Expansionboard/ESP32_30Pin_Expansionboard_01-Body.3mf)
+* Leverandør:
+  * [ESP32_30Pin_Expansionboard](https://www.aliexpress.com/item/1005006183383639.html?spm=a2g0o.productlist.main.3.141d79c89JO5Ih&algo_pvid=bb51e2c1-2add-41e5-819d-830c55dbfb44&algo_exp_id=bb51e2c1-2add-41e5-819d-830c55dbfb44-1&pdp_npi=4%40dis%21DKK%2139.81%2111.54%21%21%2141.29%2111.97%21%402103297517076034370704294e3bfe%2112000036173852749%21sea%21DK%21776792731%21&curPageLogUid=BDTyVVr8XzSs&utparam-url=scene%3Asearch%7Cquery_from%3A "www.aliexpress.com")
 
 ### Flagvinduer til OMJK's model huse
 
