@@ -15,6 +15,7 @@
   * [Herrnhuter Sterne](./README.md#herrnhuter-sterne)
   * [Juletræ](./README.md#juletræ)
   * [Curved Shapes Workbench](./README.md#curved-shapes-workbench)
+  * [Gear Intro](./README.md#gear)
 * [OMJK](./README.md#omjk)
   * [Mount for LeadDriverv6.1](./README.md#mount-for-leaddriverv61)
   * [Mount for WR-922](./README.md#mount-for-wr-typ-922-pcb)
