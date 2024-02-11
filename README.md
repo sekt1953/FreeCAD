@@ -222,11 +222,11 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
 
 |View|
 |:---:|
-|![View](./ESP32_30Pin_Expansionboard/Images/Skærmbillede%20fra%202024-02-10%2023-11-55.png)|
+|![View](./ESP32_30Pin_Expansionboard/Images/Skærmbillede%20fra%202024-02-11%2019-17-13.png)|
 
 * FreeCAD files here:
   * FCStd
-    * [ESP32_30Pin_Expansionboard_01.FCStd](./ESP32_30Pin_Expansionboard/ESP32_30Pin_Expansionboard_01.FCStd)
+    * [ESP32_30Pin_Expansionboard.FCStd](./ESP32_30Pin_Expansionboard/ESP32_30Pin_Expansionboard_01.FCStd)
   * 3mf
     * [ESP32_30Pin_Expansionboard_01-Body.3mf](./ESP32_30Pin_Expansionboard/ESP32_30Pin_Expansionboard_01-Body.3mf)
 * Leverandør:
