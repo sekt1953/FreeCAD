@@ -174,6 +174,27 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
     * [FreeCAD Curved Surfaces the Easy Way | Helicopter Canopy | Protogen Helmet Visor](https://youtu.be/VMO4Huil4-k "MangoJelly Solutions for FreeCAD")
     * [FreeCAD Curves Workbench](https://www.youtube.com/playlist?list=PLWuyJLVUNtc3qvjX-xWLeHHlpYPiEKMmC)
 
+### Gear
+
+* Kilde:
+  * CAE+
+    * [Gear Types, Design Basics, Applications and More - Basics of Gears](https://youtu.be/ZhDO16FDmxA "CAE+")
+  * How To Mechatronics
+    * [How Planetary Gears Work | 3D Printed Planetary Gearbox Design and Test](https://youtu.be/Ho4AniHtgxM "How To Mechatronics")
+  * PDW Creative
+    * [Spur Gear Design 1 - How gears work](https://www.youtube.com/watch?v=IBcGLpQnfYk "PDW Creative")
+    * [Spur Gear Design 2 - Involute of the circle](https://youtu.be/gt_Ofn95ML0 "PDW Creative")
+    * [Spur Gear Design 3 - Construct, Edit and Animate](https://youtu.be/3ixCxjDkmV0 "PDW Creative")
+    * [Metric screw thread](https://youtu.be/C4hblJGoTJk "PDW Creative")
+  * Machining-Tutorials
+    * [Thread Anatomy- (In less than 5 min!)](https://youtu.be/tkEVwpl2S4Q "Machining-Tutorials")
+  * [freecad gears tutorial](https://www.youtube.com/results?search_query=freecad+gears+tutorial)
+    * [MangoJelly Solutions for FreeCAD](https://www.youtube.com/@MangoJellySolutions)
+    * [FreeCAD For Beginners 33 | Gear Assembly, Animation and Export to Video File
+](https://youtu.be/lBtnTuwqhqc "MangoJelly Solutions for FreeCAD")
+    * [Tabletop Robotics](https://www.youtube.com/@TabletopRobotics)
+    * [How to make gears in Freecad](https://youtu.be/8VNhTrnFMfE "Tabletop Robotics")
+
 <hr/>
 
 ## OMJK
