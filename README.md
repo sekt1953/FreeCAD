@@ -178,6 +178,7 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
 ### Gear
 
 * Kilde:
+  * [ELEMENTS OF METRIC GEAR TECHNOLOGY](https://qtcgears.com/tools/catalogs/PDF_Q420/Tech.pdf)
   * CAE+
     * [Gear Types, Design Basics, Applications and More - Basics of Gears](https://youtu.be/ZhDO16FDmxA "CAE+")
   * How To Mechatronics
@@ -195,6 +196,8 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
 ](https://youtu.be/lBtnTuwqhqc "MangoJelly Solutions for FreeCAD")
     * [Tabletop Robotics](https://www.youtube.com/@TabletopRobotics)
     * [How to make gears in Freecad](https://youtu.be/8VNhTrnFMfE "Tabletop Robotics")
+* [FreeCAD Documentation](https://wiki.freecad.org/Main_Page)
+  * [FCGear Workbench](https://wiki.freecad.org/FCGear_Workbench)
 
 ## [How To Make Gears In FreeCAD 0.20 - Gear Generator - FreeCAD Gear Tutorial](https://youtu.be/snlNjgbMn48)
 
