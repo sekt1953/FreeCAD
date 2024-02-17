@@ -196,6 +196,25 @@ Video Kilde: [Build A Flexible Christmas Tree Decoration in FreeCAD](https://you
     * [Tabletop Robotics](https://www.youtube.com/@TabletopRobotics)
     * [How to make gears in Freecad](https://youtu.be/8VNhTrnFMfE "Tabletop Robotics")
 
+## [How To Make Gears In FreeCAD 0.20 - Gear Generator - FreeCAD Gear Tutorial](https://youtu.be/snlNjgbMn48)
+
+* [How to make (External) Gears in FreeCAD](https://youtu.be/snlNjgbMn48)
+  * T1 Involete parameter:
+    * Number of teeth: 20
+    * Module: 2,50 mm
+    * Pressure angle: 20,00 Deg
+    * High precision: True
+    * External gear: True
+  * T1 Involete parameter:
+    * Number ag teeth: 10
+    * Module: 2,50 mm
+    * Pressure angle: 20
+    * High precision: True
+    * External gear: True
+  * Beregn Gear hjul center afstand:
+    * **(Module * (T1 + T2))/2** ~ (2.50 * (20+10)/2 = 37,5) 
+     
+
 <hr/>
 
 ## OMJK
