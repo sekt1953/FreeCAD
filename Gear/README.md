@@ -34,15 +34,18 @@
 ![Gear1](./Images/Skærmbillede%20fra%202024-02-18%2012-48-13.png)
 
 * computed
-  * dw
+  * dw:
     * formula for dw: module=dw/teeth ~ module x teeth=dw
     * dw = 1 x 15 = 15,00 mm
-  * df
+  * df:
     * formula for df: dw-(module x 1.25 x 2) = df
     * df = 15,00 - (1 x 1,25 x 2) = 12,50 mm
-  * da
+  * da:
     * formula for da: dw-(module x 2) = da
     * da = 15,00 + (1 x 2) = 17,00 mm
+  * transverce_pitch:
+  * formula for transverce_pitch (p): pi x module = p
+    transverce_pitch (p) = 3,14 x 1 mm
 
 ![Gear2](./Images/Skærmbillede%20fra%202024-02-18%2012-44-43.png)
 
@@ -56,3 +59,6 @@
   * da
     * formula for da: dw-(module x 2) = da
     * da = 40,00 + (1 x 2) = 42,00 mm
+  * transverce_pitch:
+  * formula for transverce_pitch (p): pi x module = p
+    transverce_pitch (p) = 3,14 x 1 mm
