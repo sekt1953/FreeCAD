@@ -44,8 +44,8 @@
     * formula for da: dw-(module x 2) = da
     * da = 15,00 + (1 x 2) = 17,00 mm
   * transverce_pitch:
-  * formula for p (circular pitch =) : (pi x dw)/teeth = p
-  * p = (3,14 x 15)/15 = 3,14 mm
+    * formula for p (circular pitch =) : (pi x dw)/teeth = p
+    * p = (3,14 x 15)/15 = 3,14 mm
 
 ![Gear2](./Images/Skærmbillede%20fra%202024-02-18%2012-44-43.png)
 
@@ -60,5 +60,5 @@
     * formula for da: dw-(module x 2) = da
     * da = 40,00 + (1 x 2) = 42,00 mm
   * transverce_pitch:
-  * formula for p (circular pitch =) : (pi x dw)/teeth = p
-  * p = (3,14 x 40)/40 = 3,14 mm
+    * formula for p (circular pitch =) : (pi x dw)/teeth = p
+    * p = (3,14 x 40)/40 = 3,14 mm
