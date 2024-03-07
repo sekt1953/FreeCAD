@@ -17,15 +17,15 @@
   * [Curved Shapes Workbench](./README.md#curved-shapes-workbench)
   * [Gear Intro](./README.md#gear)
 * [OMJK](./README.md#omjk)
-  * PCBs
-    * [Mount for LeadDriverv6.1](./README.md#mount-for-leaddriverv61)
-    * [Mount for WR-922](./README.md#mount-for-wr-typ-922-pcb)
-    * [Mount for PCA9685](./README.md#mount-for-pca9685-pcb)
-    * [ESP32_30Pin_Expansionboard PCB](./README.md#esp32_30pin_expansionboard-pcb)
-    * [DSN2596 Powermodule](./README.md)
-  * Albani project
-    * [Ølkasse](./README.md#)
-  * [Flagvinduer til OMJK's model huse](./README.md#flagvinduer-til-omjks-model-huse)
+  * [PCBs](./OMJK.md#pcbs)
+    * [Mount for LeadDriverv6.1](./OMJK.md#mount-for-leaddriverv61)
+    * [Mount for WR-922](./OMJK.md#mount-for-wr-typ-922-pcb)
+    * [Mount for PCA9685](./OMJK.md#mount-for-pca9685-pcb)
+    * [ESP32_30Pin_Expansionboard PCB](./OMJK.md#esp32_30pin_expansionboard-pcb)
+    * [DSN2596 Powermodule](./OMJK.md)
+  * [Albani project](./OMJK.md#albani-project)
+    * [Ølkasse](./OMJK.md#ølkasse)
+  * [Flagvinduer til OMJK's model huse](./OMJK.md#flagvinduer-til-omjks-model-huse)
 
 ## Tools for my Home Assistant
 
