@@ -16,7 +16,7 @@
   * [Juletræ](./README.md#juletræ)
   * [Curved Shapes Workbench](./README.md#curved-shapes-workbench)
   * [Gear Intro](./README.md#gear)
-* [OMJK](./README.md#omjk)
+* [OMJK](./OMJK.md#omjk)
   * [PCBs](./OMJK.md#pcbs)
     * [Mount for LeadDriverv6.1](./OMJK.md#mount-for-leaddriverv61)
     * [Mount for WR-922](./OMJK.md#mount-for-wr-typ-922-pcb)
