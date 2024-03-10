@@ -42,6 +42,18 @@
 * Leverandør:
   * [ESP32_30Pin_Expansionboard](https://www.aliexpress.com/item/1005006183383639.html?spm=a2g0o.productlist.main.3.141d79c89JO5Ih&algo_pvid=bb51e2c1-2add-41e5-819d-830c55dbfb44&algo_exp_id=bb51e2c1-2add-41e5-819d-830c55dbfb44-1&pdp_npi=4%40dis%21DKK%2139.81%2111.54%21%21%2141.29%2111.97%21%402103297517076034370704294e3bfe%2112000036173852749%21sea%21DK%21776792731%21&curPageLogUid=BDTyVVr8XzSs&utparam-url=scene%3Asearch%7Cquery_from%3A "www.aliexpress.com")
 
+### I2C_ IO_Interface
+
+|View|
+|:---:|
+|![View](./Block_Detector/Image/Skærmbillede%20fra%202024-03-10%2018-20-09.png)|
+
+* FreeCAD files here:
+  * FCStd
+    * [Block_Detector_med_BD20_4xPCF8574N.FCStd](./Block_Detector/Block_Detector_med_BD20_4xPCF8574N.FCStd)
+  * 3mf
+    * [Block_Detector_med_BD20_4xPCF8574N-Body.3mf](./Block_Detector/Block_Detector_med_BD20_4xPCF8574N-Body.3mf)
+
 ### DSN2596
 
 |View|

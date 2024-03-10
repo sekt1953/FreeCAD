@@ -18,6 +18,7 @@
   * [Gear Intro](./README.md#gear)
 * [OMJK](./OMJK.md#omjk)
   * [PCBs](./OMJK.md#pcbs)
+    * [Mount for I2C_ IO_Interface Prototype](./OMJK.md#i2c_-io_interface)
     * [Mount for PCA9685](./OMJK.md#mount-for-pca9685-pcb)
     * [ESP32_30Pin_Expansionboard PCB](./OMJK.md#esp32_30pin_expansionboard-pcb)
     * [DSN2596 Powermodule](./OMJK.md)
