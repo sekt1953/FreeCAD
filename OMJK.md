@@ -7,18 +7,6 @@
   * [PWM Controller](./PWM.md)
   * [MCU Controller](./Mcu.md)
 
-### I2C_ IO_Interface
-
-|View|
-|:---:|
-|![View](./Block_Detector/Image/Skærmbillede%20fra%202024-03-10%2018-20-09.png)|
-
-* FreeCAD files here:
-  * FCStd
-    * [Block_Detector_med_BD20_4xPCF8574N.FCStd](./Block_Detector/Block_Detector_med_BD20_4xPCF8574N.FCStd)
-  * 3mf
-    * [Block_Detector_med_BD20_4xPCF8574N-Body.3mf](./Block_Detector/Block_Detector_med_BD20_4xPCF8574N-Body.3mf)
-
 ### DSN2596
 
 |View|
