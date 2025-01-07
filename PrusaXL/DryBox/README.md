@@ -35,9 +35,11 @@
 
 ### Prusa Triket
 
+* Min video om prusa triket klik her: [![](./Images/PrusaTrickVideo.png)](https://youtu.be/eJnPmYp0agY "Svenn-Erik Krengelund Thomsen")
+
 |||||
 |:---:|:---:|:---:|:---:|
-|Sketch029|Sketch030|Sketch027|Sketch028|
+|Pocket012 Sketch029|Pocket013 Sketch030|Pocket010 Sketch027|Pocket011 Sketch028|
 |![Sketch029](./Images/Skærmbillede%20fra%202025-01-07%2019-20-38.png)|![Sketch030](./Images/Skærmbillede%20fra%202025-01-07%2019-20-56.png)|![Sketch027](./Images/Skærmbillede%20fra%202025-01-07%2019-21-09.png)|![Sketch028](./Images/Skærmbillede%20fra%202025-01-07%2019-21-18.png)|
 
 * Filament Bearing printes i PLA Filament
