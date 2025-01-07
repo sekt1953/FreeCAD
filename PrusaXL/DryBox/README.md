@@ -31,11 +31,11 @@
 
 ## Filament Bearing
 
-![FilamentBearing](./Images/FilamentBearing.png)
+|FilamentBearing| Klik for at se video om Prusa Triket|
+|:---:|:---:|
+|![FilamentBearing](./Images/FilamentBearing.png)|[![](./Images/PrusaTrickVideo.png)](https://youtu.be/eJnPmYp0agY "Svenn-Erik Krengelund Thomsen")|
 
 ### Prusa Triket
-
-* Min video om prusa triket klik her: [![](./Images/PrusaTrickVideo.png)](https://youtu.be/eJnPmYp0agY "Svenn-Erik Krengelund Thomsen")
 
 |||||
 |:---:|:---:|:---:|:---:|
