@@ -15,6 +15,9 @@
 |Laaseskive|LaaskivePad|LaaseksivePocket|
 |![Laaseskive](./Images/Laaseskive.png)|![Laaseskive](./Images/LaaskivePad.png)|![Laaseskive](./Images/LaaseksivePocket.png)|
 
+* PolarPattern
+  * Occurences: 15
+
 ## FreeCAD Filer
 
 * [DryBox_002.FCStd](./DryBox_002.FCStd)
