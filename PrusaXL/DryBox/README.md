@@ -15,12 +15,29 @@
 |Laaseskive|LaaskivePad|LaaseksivePocket|
 |![Laaseskive](./Images/Laaseskive.png)|![Laaseskive](./Images/LaaskivePad.png)|![Laaseskive](./Images/LaaseksivePocket.png)|
 
-* PolarPattern
+* Låseskiven printes i PETG Filament
+* PolarPattern sættes til:
   * Occurences: 15
+  * Angle: 360 deg.
+
+## ORing for 10 mm axel
+
+|||
+|:---:|:---:|
+|ORing|ORingPad||
+|![Laaseskive](./Images)|![Laaseskive](./Images)|
+
+* ORingen printes i PLA Filament
+
+## Filament Bearing
+
+![FilamentBearing](./Images/FilamentBearing.png)
+
+* ORingen printes i PLA Filament
 
 ## FreeCAD Filer
 
-* [DryBox_002.FCStd](./DryBox_002.FCStd)
+* [DryBox_002.FCStd](./DryBox_003.FCStd)
 
 
 )
