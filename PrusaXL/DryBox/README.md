@@ -10,10 +10,10 @@
 
 ## LåseSkive for 10 mm axel
 
-||||
-|:---:|:---:|:---:|
+|||||
+|:---:|:---:|:---:|:---:|
 |Laaseskive|LaaskivePad|LaaseksivePocket|
-|![Laaseskive](./Images/Laaseskive.png)|![Laaseskive](./Images/LaaskivePad.png)|![Laaseskive](./Images/LaaseksivePocket.png)|
+|![Laaseskive](./Images/Laaseskive.png)|![Laaseskive](./Images/LaaskivePad.png)|![Laaseskive](./Images/LaaseksivePocket.png)|![Laaseskive](./Images/LaaseskiverMedBrim.png)|
 
 * Låseskiven printes i PETG Filament
 * PolarPattern sættes til:
@@ -33,11 +33,17 @@
 
 ![FilamentBearing](./Images/FilamentBearing.png)
 
-* ORingen printes i PLA Filament
+### Prusa Triket
+
+|||||
+|:---:|:---:|:---:|:---:|
+|Sketch029|Sketch030|Sketch027|Sketch028|
+|![Sketch029](./Images/Skærmbillede%20fra%202025-01-07%2019-20-38.png)|![Sketch030](./Images/Skærmbillede%20fra%202025-01-07%2019-20-56.png)|![Sketch027](./Images/Skærmbillede%20fra%202025-01-07%2019-21-09.png)|![Sketch028](./Images/Skærmbillede%20fra%202025-01-07%2019-21-18.png)|
+
+* Filament Bearing printes i PLA Filament
 
 ## FreeCAD Filer
 
-* [DryBox_002.FCStd](./DryBox_003.FCStd)
-
+* [DryBox_003.FCStd](./DryBox_003.FCStd)
 
 )
