@@ -52,8 +52,7 @@
 
 * Desiccant: Act. Alumina 2-5 mm 1kg: 95,00 kr.
   * Sælger
-  * [nordicfiltration](https://nordicfiltration.com/dk/
-  catalogsearch/result/?q=Alumina+Desiccant)
+  * [nordicfiltration](https://nordicfiltration.com/dk/catalogsearch/result/?q=Alumina+Desiccant)
     * ADRESSE: Glasvænget 6, 
     * 5492 Vissenbjerg, 
     * Danmark
