@@ -53,9 +53,7 @@
 * Desiccant: Act. Alumina 2-5 mm 1kg: 95,00 kr.
   * Sælger
   * [nordicfiltration](https://nordicfiltration.com)
-    * ADRESSE: Glasvænget 6, 
-    * 5492 Vissenbjerg, 
-    * Danmark
+    * ADRESSE: Glasvænget 6, 5492 Vissenbjerg, Danmark
     * TELEFON: (+45) 72 25 10 00
     * ÅBNINGSTIDER: Man - Tor / 08:00 - 16:00 - Fre / 08:00 - 15:00
     * [Desiccant: Act. Alumina 2-5 mm 1kg](https://nordicfiltration.com/dk/catalogsearch/result/?q=Alumina+Desiccant)
