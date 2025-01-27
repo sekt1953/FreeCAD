@@ -18,5 +18,6 @@
 
 ## FreeCAD
 
-* ![Skærmbillede fra 2025-01-26 16-30-04.png](./Images/Skærmbillede%20fra%202025-01-26%2016-30-04.png)
+* Body_BasicSketch
+  * ![Skærmbillede](./Images/Skærmbillede%20fra%202025-01-27%2020-51-00.png)
 * FreeCAD File: [Ikea365.FCStd](./Ikea365.FCStd)
