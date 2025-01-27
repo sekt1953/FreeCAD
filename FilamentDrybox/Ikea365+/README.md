@@ -15,6 +15,12 @@
   * [Aqara Temperature and Humidity Sensor T1](https://www.komplett.dk/product/1300222/bolig-fritid/alarm-sikkerhed/sensorer/aqara-temperature-and-humidity-sensor-t1)
 * [Filter-Online & Nordic Filtration ApS](https://nordicfiltration.com/en/)
   * [Activated Alumina 2-5 mm](https://nordicfiltration.com/en/compressed-air/accessories-compressed-air/desiccant-absorbent/activated-alumina)
+* [techbitshop.dk](https://techbitshop.dk/)
+  * [PC4-M6 Push Fittings til PTFE tube hvor
+slangen kan komme helt igennem - 925](https://techbitshop.dk/vare/pc4-m6-push-fittings/)
+* [ArduinoTech.dk](ArduinoTech.dk)
+  * [Teflon PTFE Tube 3D printer](https://arduinotech.dk/shop/teflon-ptfe-tube-3d-printer/)
+  * [M5 pneumatisk rør 4 mm skub i konnektorfittings](https://arduinotech.dk/shop/m5-pneumatic-tube-4mm-push-in-connector-fittings/)
 
 ## FreeCAD
 
