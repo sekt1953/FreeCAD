@@ -2,6 +2,7 @@
 
 * [FluidNC Web Installer](https://installer.fluidnc.com/fluidnc)
   * ![FluidNC Web Installer](./Images/Skærmbillede%20fra%202026-01-16%2018-24-51.png)
+* [External Stepper Motor Drivers](http://wiki.fluidnc.com/en/support/external_stepper_motor_drivers)
 
 ## ESP32 Pin Reference
 
@@ -90,3 +91,39 @@ Some pins have default uses in FluidNC. If you are using these functions, it is 
 * I2C OLED
   * SCL gpio.12
   * SDA gpio.15
+
+
+## Frequently Asked Questions
+
+### Determining steps per mm.
+
+* For FluidNC, the term steps_per_mm is used because that is the generic term CNC builders use. The firmware is actually sending signal pulses per mm. That is the same as steps only if you are not using microstepping (1 pulse = 1 full step).
+* You must calculate this value based on your machine. Typically, leads screws, pulley ratios, belts, etc need to go into this calculation. There are a lot of resources and calculators on the internet to help with this.
+* You should carefully test your calculation by jogging a small amount like 10mm and measuring the move. If you measure 20mm you should cut your steps_per_mm in half. If you moved 5mm you should double it. Basically divide the jog distance by the actual move distance and multiply it by your current step_per_mm value.  
+    
+* Example: steps_per_mm=160, jog amount=10, move=20
+* new step_per_mm = 10/20*160 = 80
+
+* Note: If you measure very close, but not exactly the same as your calculation, it may be a measurement error or some slop in your system. "Tuning" these errors out is hard because they are typically not linear with distance. Try some longer moves to check this.
+* Note: The machine is always setup in mm even if you use inches.
+* If you end up with a high steps_per_mm (over 100) and you are using microstepping, you should consider using a lower microstepping value. High microstepping will limit how fast your machine can move and you will get configuration warnings if you exceed that. Most DIY are not more accurate than 100 steps per mm anyway.
+
+### Can fluidnc motor ena be shared
+
+* Søg i stedet efter fluidnc con moter ena be shared
+  * [External Stepper Motor Drivers](http://wiki.fluidnc.com/en/support/external_stepper_motor_drivers)
+* AI-oversigt
+  * Yes, FluidNC can share an enable (ENA) pin for multiple stepper motor drivers, especially with external drivers that default to enabled, allowing a single pin to control all motors simultaneously for power-up/down or disabling during idle, configured via the **shared_stepper_disable_pin** setting, though individual control is also possible if drivers have separate enable pins.
+* How it works
+  * External Drivers:
+    * Most external drivers (like TB6600) have an ENA pin that disables the driver when connected to a signal, meaning leaving it unconnected enables the motor by default.
+  * Shared Control:
+    * You can connect the ENA pins of several drivers to a single digital pin on your FluidNC board.
+  * FluidNC Configuration:
+    * Set this shared pin using the shared_stepper_disable_pin parameter in your FluidNC configuration.
+  * Automatic Management: 
+    * FluidNC automatically enables drivers for motion and disables them after a set idle time (controlled by idle_ms), or you can manually disable them with the $MD command. 
+  * Configuration steps
+    * Wire: Connect the ENA pins of all your drivers to one digital output pin on your FluidNC board.
+    * Configure: In your FluidNC settings, define the shared pin (e.g., **shared_stepper_disable_pin=25**).
+    * Test: If motors are locked, try disconnecting the ENA pin (they should then be enabled) or check if the pin needs inverting (if it locks when it should unlock, set **enable_pin_invert=true**).
