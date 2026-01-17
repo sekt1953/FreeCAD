@@ -127,3 +127,12 @@ Some pins have default uses in FluidNC. If you are using these functions, it is 
     * Wire: Connect the ENA pins of all your drivers to one digital output pin on your FluidNC board.
     * Configure: In your FluidNC settings, define the shared pin (e.g., **shared_stepper_disable_pin=25**).
     * Test: If motors are locked, try disconnecting the ENA pin (they should then be enabled) or check if the pin needs inverting (if it locks when it should unlock, set **enable_pin_invert=true**).
+
+## 3D Printeted  Parts
+
+[GT2 Belt Tensioner](https://www.printables.com/model/327369-gt2-belt-tensioner)
+
+||||
+|:---:|:---:|:---:|
+|![2018-58-33.png](./Images/Skærmbillede%20fra%202026-01-17%2018-58-33.png)|![18-58-27.png](./Images/Skærmbillede%20fra%202026-01-17%2018-58-27.png)|![2018-58-20.png](./Images/Skærmbillede%20fra%202026-01-17%2018-58-20.png)|
+
