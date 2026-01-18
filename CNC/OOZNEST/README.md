@@ -21,9 +21,9 @@
 ## 3D Printed Parts
 
 * [My Own Designed Parts](./3D_PrintedParts/README.md)
-  * [Cable Management](./3D_PrintedParts/Cable_Management/README.md)
+  * [Cable Management](./3D_PrintedParts/README.md#cable-manement)
   * [GT3 BeltTensioner](./3D_PrintedParts/GT3_BeltTensioner/README.md)
-  * [Motor Flange](./3D_PrintedParts/)
+  * [Motor Flange](./3D_PrintedParts/README.md#nema-23-motorflange)
 
 ## Controler & Driver
 
