@@ -1,5 +1,7 @@
 # GT3 Belt Tensioner 3mm pitch - 6mm width
 
+![](./Images/Skærmbillede%20fra%202026-01-18%2020-24-41.png)
+
 * [GT3 Belt - 3mm pitch - 9mm width](https://makersupplies.dk/machine-components/transmission/belts-and-pulleys/on-sale-gt3-belts-and-pulleys-gt3-belt-3mm-pitch-9mm-width-by-the-meter "makersupplies")
 
 |||
