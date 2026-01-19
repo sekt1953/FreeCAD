@@ -29,6 +29,9 @@
 |![2017-10-13.png](./Cable_Management/Images/Skærmbillede%20fra%202026-01-19%2017-10-13.png)||
 |![2017-10-43.png](./Cable_Management/Images/Skærmbillede%20fra%202026-01-19%2017-10-43.png)|![2017-11-19.png](./Cable_Management/Images/Skærmbillede%20fra%202026-01-19%2017-11-19.png)|
 
+|Body_KabelBøjle_med_Bro_KEY||
+|:---:|:---:|
+|![2022-28-34.png](./Cable_Management/Images/Skærmbillede%20fra%202026-01-19%2022-28-34.png)||
 
 * FreeCAD Files:
   * Print settings:
@@ -40,7 +43,7 @@
   * [CableManement-Body_KabelBojle_Indvendig.3mf](./Cable_Management/3mf/CableManement-Body_KabelBojle_Indvendig.3mf)
   * [CableManement-Body_KabelBojle_udvendig.3mf](./Cable_Management/3mf/CableManement-Body_KabelBojle_udvendig.3mf)
   * [CableManement-Body_KabelBøjle_med_Bro.3mf](./Cable_Management/3mf/CableManement-Body_KabelBøjle_med_Bro.3mf)
-  * []()
+  * [CableManement-Body001.3mf](./Cable_Management/3mf/CableManement-Body001.3mf)
   * []()
 
 ## GT3 BeltTensioner
