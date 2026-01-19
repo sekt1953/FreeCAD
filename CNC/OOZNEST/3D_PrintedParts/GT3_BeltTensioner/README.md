@@ -10,6 +10,13 @@
 |![2019-57-19.png](./Images/Skærmbillede%20fra%202026-01-18%2019-57-19.png)|![2019-57-26.png](./Images/Skærmbillede%20fra%202026-01-18%2019-57-26.png)|
 
 * FreeCAD Files:
+  * Print settings:
+    * Layer: 0,10mm Fast Detail
+    * Vertical shells: 6
+    * Wipe tower: off
+  * Filament:
+    * Spectrum PLA
   * [GT3-BeltTensioner.FCStd](./GT3-BeltTensioner.FCStd)
   * [GT3-BeltTensioner-Cut002.3mf](./3mf/GT3-BeltTensioner-Cut002.3mf)
   * [GT3-BeltTensioner-Body_Hextogon_Grove.3mf](./3mf/GT3-BeltTensioner-Body_Hextogon_Grove.3mf)
+  
