@@ -15,7 +15,7 @@
     * Vertical shells: 6
     * Wipe tower: off
   * Filament:
-    * Spectrum PLA
+    * Spectrum Premium PLA
   * [GT3-BeltTensioner.FCStd](./GT3-BeltTensioner.FCStd)
   * [GT3-BeltTensioner-Cut002.3mf](./3mf/GT3-BeltTensioner-Cut002.3mf)
   * [GT3-BeltTensioner-Body_Hextogon_Grove.3mf](./3mf/GT3-BeltTensioner-Body_Hextogon_Grove.3mf)

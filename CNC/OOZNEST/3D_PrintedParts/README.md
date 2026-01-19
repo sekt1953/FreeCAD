@@ -24,11 +24,22 @@
 |:---:|:---:|
 |![2013-27-51.png](./Cable_Management/Images/Skærmbillede%20fra%202026-01-18%2013-27-51.png)|![2013-28-10.png](./Cable_Management/Images/Skærmbillede%20fra%202026-01-18%2013-28-10.png)|
 
+|Body_KabelBøjle_med_Bro||
+|:---:|:---:|
+|![2017-10-13.png](./Cable_Management/Images/Skærmbillede%20fra%202026-01-19%2017-10-13.png)||
+|![2017-10-43.png](./Cable_Management/Images/Skærmbillede%20fra%202026-01-19%2017-10-43.png)|![2017-11-19.png](./Cable_Management/Images/Skærmbillede%20fra%202026-01-19%2017-11-19.png)|
+
+
 * FreeCAD Files:
+  * Print settings:
+    * Layer: 0,25mm STRUCTURAL
+    * Wipe tower: off
+  * Filament:
+    * Spectrum Premium PLA
   * [CableManement.FCStd](./Cable_Management/CableManement.FCStd)
   * [CableManement-Body_KabelBojle_Indvendig.3mf](./Cable_Management/3mf/CableManement-Body_KabelBojle_Indvendig.3mf)
   * [CableManement-Body_KabelBojle_udvendig.3mf](./Cable_Management/3mf/CableManement-Body_KabelBojle_udvendig.3mf)
-  * []()
+  * [CableManement-Body_KabelBøjle_med_Bro.3mf](./Cable_Management/3mf/CableManement-Body_KabelBøjle_med_Bro.3mf)
   * []()
   * []()
 
