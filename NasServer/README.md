@@ -1,5 +1,7 @@
 # NasServer
 
+## Master Sketch's
+
 * Power 180W
   * PowerSupply XZ High
     * ![PowerSupply XZ High](./Images/Skærmbillede%20fra%202026-03-09%2017-07-10.png)
