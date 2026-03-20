@@ -14,3 +14,7 @@
 ![2014-34-37.png](./Image/Skærmbillede%20fra%202026-03-20%2014-34-37.png)
 ![2014-35-04.png](./Image/Skærmbillede%20fra%202026-03-20%2014-35-04.png)
 ![2014-35-46.png](./Image/Skærmbillede%20fra%202026-03-20%2014-35-46.png)
+
+## FreeCAD files
+
+[18650_BatteryCharger.FCStd](./18650_BatteryCharger.FCStd)
