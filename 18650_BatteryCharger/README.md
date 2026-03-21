@@ -5,6 +5,7 @@
 * YouTube 
   * [OffsetCAD](https://www.youtube.com/@OffsetCAD/videos)
     * [FreeCAD Basics 2026](https://www.youtube.com/playlist?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
+      * [Quick intro to FreeCAD](https://youtu.be/PvQhRFxqyIE)
       * [FreeCAD 1.1 Basics: Exercise 1](https://youtu.be/dKI4fpbmWW4?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
       * [FreeCAD 1.1 Basics: Exercise 2](https://youtu.be/TR4peSSvY10?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
 
