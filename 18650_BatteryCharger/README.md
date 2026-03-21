@@ -7,6 +7,10 @@
     * [FreeCAD 1.1 Basics: Exercise 1](https://youtu.be/dKI4fpbmWW4?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
     * [FreeCAD 1.1 Basics: Exercise 2](https://youtu.be/TR4peSSvY10?list=PLVWDQhBHqKgFrwuhc8mih5PypHuvzJuiR)
 
+## Basics: Exercise 1
+
+![2010-37-36.png](./Image/Skærmbillede%20fra%202026-03-21%2010-37-36.png)
+
 ## Basics: Exercise 2
 
 ![2014-33-34.png](./Image/Skærmbillede%20fra%202026-03-20%2014-33-34.png)
